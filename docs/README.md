@@ -16,4 +16,4 @@ export default class extends Vue {}
 
 <HelloWorld />
 
-asd
+asda
